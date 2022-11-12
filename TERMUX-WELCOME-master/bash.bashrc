@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "WELCOME" | lolcat
+echo -e "WELCOME UDAY " | lolcat
 echo "----------------------------" | lolcat
 echo "BY UDAY " | lolcat
 figlet -c Welcome  
